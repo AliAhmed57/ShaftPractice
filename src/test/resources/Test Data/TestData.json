@@ -1,0 +1,20 @@
+{
+  "username": "Ali",
+  "email" : "ali2023@gmail.com",
+  "accountDetails": {
+    "Password": "123456",
+    "newsteller": true ,
+    "optin" : true
+  },
+  "addressInformation": {
+    "firstname": "Ali",
+    "lastname": "Ahmed" ,
+    "company" : "Giza Systems",
+    "address1" : "A1",
+    "address2" : "A2",
+    "state" : "Cairo",
+    "city" : "Egypt",
+    "zipcode" : "02",
+    "mobileNum" : "01011574862"
+  }
+}
